@@ -1,0 +1,8 @@
+dragon$ = " i spit fire " ;
+powerlevel# = 9001 ;
+speed% = 100.75 ;
+dangerlvl% = powerlevel# * speed% ;
+PRINT "the power level is " ;
+PRINT powerlevel# ;
+PRINT "does the dragon spit fire? " ;
+PRINT dragon$ ;
